@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Vote for Todd, he likes cheese!
 Use the left arrow to go back!
